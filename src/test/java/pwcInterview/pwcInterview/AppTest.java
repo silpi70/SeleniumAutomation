@@ -16,6 +16,9 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
     	System.out.println("shouldAnswerWithTrue PASSED");
+    	System.out.println("shouldAnswerWithTrue1 PASSED");
+    	System.out.println("shouldAnswerWithTrue2 PASSED");
+    	System.out.println("shouldAnswerWithTrue3 PASSED");
         assertTrue( true );
     }
 }
